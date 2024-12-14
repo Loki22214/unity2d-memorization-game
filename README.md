@@ -6,5 +6,5 @@ the player has to memorize random spike patterns, as the game goes on the diffic
 ---
 
 ## Gameplay video
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
+[![Watch the video](https://github.com/Loki22214/unity2d-memorization-game/blob/main/Gameplay%20demo.mp4)
 
